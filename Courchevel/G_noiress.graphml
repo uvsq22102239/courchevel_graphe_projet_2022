@@ -1,0 +1,1992 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d5" for="edge" attr.name="label" attr.type="string"/>
+<key id="d4" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d3" for="node" attr.name="label" attr.type="string"/>
+<key id="d2" for="node" attr.name="shape_type" attr.type="string"/>
+<key id="d1" for="node" attr.name="y" attr.type="string"/>
+<key id="d0" for="node" attr.name="x" attr.type="string"/>
+<graph edgedefault="directed"><node id="n0">
+  <data key="d0">-3537.6378837930424</data>
+  <data key="d1">-811.7163452847998</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n1">
+  <data key="d0">-3817.4503837930424</data>
+  <data key="d1">-674.7163452847999</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n2">
+  <data key="d0">-3091.512883793043</data>
+  <data key="d1">-614.7163452847999</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n3">
+  <data key="d0">-3254.2003837930424</data>
+  <data key="d1">-257.83103034339354</data>
+  <data key="d2">star5</data>
+  <data key="d3">PRAMERUEL</data>
+</node>
+<node id="n4">
+  <data key="d0">-3578.1378837930424</data>
+  <data key="d1">-476.7163452847998</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n5">
+  <data key="d0">-3693.1378837930424</data>
+  <data key="d1">-546.7163452847998</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n6">
+  <data key="d0">-3771.1378837930424</data>
+  <data key="d1">-523.7163452847998</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n7">
+  <data key="d0">-3729.137883793043</data>
+  <data key="d1">-440.7163452847998</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n8">
+  <data key="d0">-3771.1378837930424</data>
+  <data key="d1">-614.7163452847999</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n9">
+  <data key="d0">-3759.6378837930424</data>
+  <data key="d1">-278.33103034339354</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n10">
+  <data key="d0">-3436.2042900430433</data>
+  <data key="d1">-776.3310303433934</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n11">
+  <data key="d0">-3652.954290043043</data>
+  <data key="d1">-129.08103034339354</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">BEL AIR</data>
+</node>
+<node id="n12">
+  <data key="d0">-3399.2042900430433</data>
+  <data key="d1">-339.08103034339354</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n13">
+  <data key="d0">-3459.2042900430433</data>
+  <data key="d1">-257.83103034339354</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n14">
+  <data key="d0">-3514.204290043043</data>
+  <data key="d1">-175.33103034339354</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n15">
+  <data key="d0">-3710.454290043043</data>
+  <data key="d1">-218.33103034339354</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n16">
+  <data key="d0">-3578.1378837930424</data>
+  <data key="d1">-145.33103034339354</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n17">
+  <data key="d0">-4275.454290043042</data>
+  <data key="d1">-339.08103034339354</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">SIGNAL</data>
+</node>
+<node id="n18">
+  <data key="d0">-3447.9542900430433</data>
+  <data key="d1">-49.08103034339365</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">BOSSES</data>
+</node>
+<node id="n19">
+  <data key="d0">-4085.475958515415</data>
+  <data key="d1">152.9711547152001</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n20">
+  <data key="d0">-3867.954290043043</data>
+  <data key="d1">-175.33103034339354</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n21">
+  <data key="d0">-3921.704290043043</data>
+  <data key="d1">-85.33103034339365</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n22">
+  <data key="d0">-2905.9965263711674</data>
+  <data key="d1">371.98751873654237</data>
+  <data key="d2">rectangle</data>
+  <data key="d3">COURCHEVEL 1650M1</data>
+</node>
+<node id="n23">
+  <data key="d0">-3537.6378837930424</data>
+  <data key="d1">-49.08103034339365</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n24">
+  <data key="d0">-3567.6378837930424</data>
+  <data key="d1">0.9610595003559865</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n25">
+  <data key="d0">-3652.954290043043</data>
+  <data key="d1">71.27355950035599</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n26">
+  <data key="d0">-3597.637883793043</data>
+  <data key="d1">-72.18498542151883</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n27">
+  <data key="d0">-3597.637883793043</data>
+  <data key="d1">186.0542845980126</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n28">
+  <data key="d0">-2845.8966546049332</data>
+  <data key="d1">214.9049473750042</data>
+  <data key="d2">rectangle</data>
+  <data key="d3">COURCHEVEL 1650M2</data>
+</node>
+<node id="n29">
+  <data key="d0">-3459.2042900430433</data>
+  <data key="d1">117.51802971519919</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n30">
+  <data key="d0">-3436.2042900430433</data>
+  <data key="d1">205.0180297151992</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n31">
+  <data key="d0">-3381.4844119180425</data>
+  <data key="d1">275.3305297151992</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n32">
+  <data key="d0">-3317.4219119180425</data>
+  <data key="d1">195.6430297151992</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n33">
+  <data key="d0">-2681.209588227496</data>
+  <data key="d1">-940.01821956974</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">CREUX NOIRS</data>
+</node>
+<node id="n34">
+  <data key="d0">-2622.606645128905</data>
+  <data key="d1">-828.7741046401627</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n35">
+  <data key="d0">-2612.4685264723503</data>
+  <data key="d1">-711.0608336542471</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n36">
+  <data key="d0">-2171.700031612644</data>
+  <data key="d1">-886.2469012165441</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">SAULIRE</data>
+</node>
+<node id="n37">
+  <data key="d0">-2358.7260337794914</data>
+  <data key="d1">-736.6260994830662</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">VIZELLE</data>
+</node>
+<node id="n38">
+  <data key="d0">-2742.1293382215285</data>
+  <data key="d1">-631.4239732642147</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n39">
+  <data key="d0">-2954.5567488390802</data>
+  <data key="d1">-498.58850129780103</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n40">
+  <data key="d0">-2835.518761298452</data>
+  <data key="d1">-457.96878298794184</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n41">
+  <data key="d0">-2452.2390348629156</data>
+  <data key="d1">-614.7163452847999</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n42">
+  <data key="d0">-2945.6163187199036</data>
+  <data key="d1">-393.5654591797079</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n43">
+  <data key="d0">-2509.8910832784168</data>
+  <data key="d1">-407.3442739142689</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n44">
+  <data key="d0">-2394.281115781125</data>
+  <data key="d1">-407.344273914269</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n45">
+  <data key="d0">-2923.899750667366</data>
+  <data key="d1">-312.04416557190723</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n46">
+  <data key="d0">-3064.506467893801</data>
+  <data key="d1">-312.0441655719071</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n47">
+  <data key="d0">-2835.518761298452</data>
+  <data key="d1">-321.4179467203361</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n48">
+  <data key="d0">-2905.9965263711674</data>
+  <data key="d1">-196.43419807461578</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n49">
+  <data key="d0">-2483.332036691201</data>
+  <data key="d1">-196.4341980746159</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n50">
+  <data key="d0">-2742.1293382215285</data>
+  <data key="d1">-196.43419807461578</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n51">
+  <data key="d0">-2789.5605290395215</data>
+  <data key="d1">-35.365053640704446</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n52">
+  <data key="d0">-2452.2390348629156</data>
+  <data key="d1">-136.4341980746159</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n53">
+  <data key="d0">-2326.5351068058494</data>
+  <data key="d1">-136.4341980746159</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n54">
+  <data key="d0">-2303.2256265031338</data>
+  <data key="d1">-321.4179467203361</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n55">
+  <data key="d0">-2311.71506025864</data>
+  <data key="d1">-27.699291519902545</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">PRALONG</data>
+</node>
+<node id="n56">
+  <data key="d0">-2326.5351068058494</data>
+  <data key="d1">-231.66278326796998</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n57">
+  <data key="d0">-2029.9788812199115</data>
+  <data key="d1">-312.04416557190734</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">VERDONS</data>
+</node>
+<node id="n58">
+  <data key="d0">-2228.3163676771164</data>
+  <data key="d1">-777.6363920074432</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n59">
+  <data key="d0">-2279.4815897789576</data>
+  <data key="d1">-675.1366019207696</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n60">
+  <data key="d0">-2291.1988162144944</data>
+  <data key="d1">-615.1366019207696</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n61">
+  <data key="d0">-2321.1988162144944</data>
+  <data key="d1">-573.5873061461218</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n62">
+  <data key="d0">-2130.158597566073</data>
+  <data key="d1">-658.3419106965009</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n63">
+  <data key="d0">-2231.1988162144944</data>
+  <data key="d1">-555.1366019207696</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n64">
+  <data key="d0">-2059.9788812199113</data>
+  <data key="d1">-372.44158566941553</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n65">
+  <data key="d0">-2136.922001479933</data>
+  <data key="d1">-372.04416557190723</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n66">
+  <data key="d0">-2136.922001479933</data>
+  <data key="d1">-455.5093978308455</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n67">
+  <data key="d0">-1999.9788812199115</data>
+  <data key="d1">-573.5873061461218</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n68">
+  <data key="d0">-2059.9788812199113</data>
+  <data key="d1">-495.13660192076964</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n69">
+  <data key="d0">-2009.9853817616233</data>
+  <data key="d1">-477.17072299335894</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n70">
+  <data key="d0">-1918.739444600193</data>
+  <data key="d1">-525.1366019207696</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n71">
+  <data key="d0">-1950.618101154906</data>
+  <data key="d1">-335.0017089088518</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n72">
+  <data key="d0">-1950.618101154906</data>
+  <data key="d1">-275.0017089088518</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n73">
+  <data key="d0">-1918.739444600193</data>
+  <data key="d1">-477.17072299335905</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n74">
+  <data key="d0">-1905.4621481521826</data>
+  <data key="d1">-174.32927729187452</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n75">
+  <data key="d0">-1905.4621481521826</data>
+  <data key="d1">-81.46379585359762</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n76">
+  <data key="d0">-1905.4621481521826</data>
+  <data key="d1">7.196569516205727</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n77">
+  <data key="d0">-1905.4621481521826</data>
+  <data key="d1">115.39183824597421</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">LAC</data>
+</node>
+<node id="n78">
+  <data key="d0">-1866.0559330127408</data>
+  <data key="d1">197.52590199099404</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n79">
+  <data key="d0">-1853.3082039290753</data>
+  <data key="d1">295.1039737041415</data>
+  <data key="d2">rectangle</data>
+  <data key="d3">COURCHEVEL 1850M</data>
+</node>
+<node id="n80">
+  <data key="d0">-2029.9788812199115</data>
+  <data key="d1">-231.66278326796998</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n81">
+  <data key="d0">-1999.9788812199115</data>
+  <data key="d1">-185.30740478191433</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n82">
+  <data key="d0">-2197.5931914003895</data>
+  <data key="d1">-252.67688496519008</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n83">
+  <data key="d0">-2178.2569940128806</data>
+  <data key="d1">-174.32927729187452</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n84">
+  <data key="d0">-2178.2569940128806</data>
+  <data key="d1">-75.21338087753179</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n85">
+  <data key="d0">-2072.640229054573</data>
+  <data key="d1">-63.914416734105544</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n86">
+  <data key="d0">-2094.167666823497</data>
+  <data key="d1">-7.631103267970502</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n87">
+  <data key="d0">-1994.329046106365</data>
+  <data key="d1">134.7416151384043</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n88">
+  <data key="d0">-1171.6865506087572</data>
+  <data key="d1">-495.13660192076964</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">	CHENUS</data>
+</node>
+<node id="n89">
+  <data key="d0">-1065.4745984175222</data>
+  <data key="d1">-345.3309428950865</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">LOZE</data>
+</node>
+<node id="n90">
+  <data key="d0">-1267.5723407814</data>
+  <data key="d1">-447.11739707835335</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n91">
+  <data key="d0">-1232.1683567176551</data>
+  <data key="d1">-358.60743691899074</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n92">
+  <data key="d0">-1390.0111190018515</data>
+  <data key="d1">-407.2879150066401</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n93">
+  <data key="d0">-1720.448303596805</data>
+  <data key="d1">-98.97822045152725</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n94">
+  <data key="d0">-1493.2727391877745</data>
+  <data key="d1">-345.3309428950864</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n95">
+  <data key="d0">-804.7242557880402</data>
+  <data key="d1">-672.404749003984</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">COL DE LA LOZE 2305M</data>
+</node>
+<node id="n96">
+  <data key="d0">-934.1258175410283</data>
+  <data key="d1">-564.0284972297468</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n97">
+  <data key="d0">-855.3519529991954</data>
+  <data key="d1">-467.4156812749004</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n98">
+  <data key="d0">-1232.1683567176551</data>
+  <data key="d1">-45.630544488711735</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n99">
+  <data key="d0">-1506.716727693773</data>
+  <data key="d1">124.0135458167332</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n100">
+  <data key="d0">-1118.7480689952338</data>
+  <data key="d1">-423.27304116865866</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n101">
+  <data key="d0">-885.3405046480739</data>
+  <data key="d1">-392.29455511288177</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n102">
+  <data key="d0">-816.0077025232397</data>
+  <data key="d1">-409.99654714475423</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n103">
+  <data key="d0">-392.9569185744883</data>
+  <data key="d1">65.02444309206146</data>
+  <data key="d2">ellipse</data>
+  <data key="d3">PRAZ-JUGET</data>
+</node>
+<node id="n104">
+  <data key="d0">-103.64517126706016</data>
+  <data key="d1">894.7676603303601</data>
+  <data key="d2">rectangle</data>
+  <data key="d3">LA TANIA 1400M</data>
+</node>
+<node id="n105">
+  <data key="d0">-754.4647446083372</data>
+  <data key="d1">1044.8451799289132</data>
+  <data key="d2">rectangle</data>
+  <data key="d3">COURCHEVEL - LE PRAZ 1300M</data>
+</node>
+<node id="n106">
+  <data key="d0">-1545.747989289188</data>
+  <data key="d1">1501.1413686523174</data>
+  <data key="d2">rectangle</data>
+  <data key="d3">ST BON 1100M</data>
+</node>
+<node id="n107">
+  <data key="d0">-2178.2569940128806</data>
+  <data key="d1">807.3736248225305</data>
+  <data key="d2">rectangle</data>
+  <data key="d3">COURCHEVEL 1550M</data>
+</node>
+<node id="n108">
+  <data key="d0">-816.0077025232397</data>
+  <data key="d1">-7.800512612636567</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n109">
+  <data key="d0">-1779.8639999999996</data>
+  <data key="d1">857.9446808510638</data>
+  <data key="d2">rectangle</data>
+  <data key="d3">la Choulière</data>
+</node>
+<node id="n110">
+  <data key="d0">-1963.4850036170224</data>
+  <data key="d1">669.3787185106386</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n111">
+  <data key="d0">-1866.0559330127408</data>
+  <data key="d1">749.0175482978726</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n112">
+  <data key="d0">-1606.1312802127673</data>
+  <data key="d1">785.773931276596</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n113">
+  <data key="d0">-1461.1477695744693</data>
+  <data key="d1">575.4457397872342</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n114">
+  <data key="d0">-1393.7610674468096</data>
+  <data key="d1">669.3787185106386</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n115">
+  <data key="d0">-1267.5723407814</data>
+  <data key="d1">550.9414844680854</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n116">
+  <data key="d0">-1193.6429823404267</data>
+  <data key="d1">771.4797823404257</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n117">
+  <data key="d0">-1058.8695780851076</data>
+  <data key="d1">875.6228674468086</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n118">
+  <data key="d0">-1524.4504291489375</data>
+  <data key="d1">370.44680851063833</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n119">
+  <data key="d0">-1074.0342290580804</data>
+  <data key="d1">302.5208342619104</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n120">
+  <data key="d0">-1292.1683567176551</data>
+  <data key="d1">323.48031914893625</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n121">
+  <data key="d0">-1393.7610674468096</data>
+  <data key="d1">302.5208342619104</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n122">
+  <data key="d0">-1095.625961063831</data>
+  <data key="d1">170.32872340425536</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n123">
+  <data key="d0">-1042.5334078723417</data>
+  <data key="d1">19.219148936170257</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n124">
+  <data key="d0">-906.1837234513794</data>
+  <data key="d1">-22.628765957446717</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n125">
+  <data key="d0">-1193.6429823404267</data>
+  <data key="d1">134.7416151384043</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n126">
+  <data key="d0">-589.6304680851063</data>
+  <data key="d1">-22.628765957446717</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n127">
+  <data key="d0">-571.270327838926</data>
+  <data key="d1">412.1551815302014</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n128">
+  <data key="d0">-571.270327838926</data>
+  <data key="d1">680.7058753288591</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n129">
+  <data key="d0">-253.8922351677852</data>
+  <data key="d1">431.0203129127517</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n130">
+  <data key="d0">-185.08999130201323</data>
+  <data key="d1">672.9378800536915</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n131">
+  <data key="d0">36.818500072514325</data>
+  <data key="d1">680.7058753288591</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<node id="n132">
+  <data key="d0">-412.5812815033556</data>
+  <data key="d1">370.252317637584</data>
+  <data key="d2">star5</data>
+  <data key="d3">
+            </data>
+</node>
+<edge source="n0" target="n1">
+  <data key="d4">1.9</data>
+  <data key="d5">roc merlet</data>
+</edge>
+<edge source="n0" target="n10">
+  <data key="d4">0.7</data>
+  <data key="d5">Jean Pachod1</data>
+</edge>
+<edge source="n1" target="n4">
+  <data key="d4">2.1</data>
+  <data key="d5">PYRAMIDE</data>
+</edge>
+<edge source="n1" target="n8">
+  <data key="d4">0.8</data>
+  <data key="d5">pyramide1</data>
+</edge>
+<edge source="n1" target="n6">
+  <data key="d4">0.7</data>
+  <data key="d5">pyramide2</data>
+</edge>
+<edge source="n1" target="n0">
+  <data key="d4">2.6</data>
+  <data key="d5">ROC MERLET</data>
+</edge>
+<edge source="n2" target="n3">
+  <data key="d4">2.1</data>
+  <data key="d5">creux1</data>
+</edge>
+<edge source="n2" target="n0">
+  <data key="d4">1.5</data>
+  <data key="d5">CHANROSSA</data>
+</edge>
+<edge source="n2" target="n37">
+  <data key="d4">3.1</data>
+  <data key="d5">MARMOTTES</data>
+</edge>
+<edge source="n3" target="n9">
+  <data key="d4">1.2</data>
+  <data key="d5">ROC MUGNIER</data>
+</edge>
+<edge source="n3" target="n50">
+  <data key="d4">2.2</data>
+  <data key="d5">GRAVELLES</data>
+</edge>
+<edge source="n3" target="n43">
+  <data key="d4">3.1</data>
+  <data key="d5">AIGUILLE DU FRUIT</data>
+</edge>
+<edge source="n4" target="n3">
+  <data key="d6">3</data>
+  <data key="d5">roc mugnier</data>
+</edge>
+<edge source="n4" target="n14">
+  <data key="d4">1.5</data>
+  <data key="d5">grandes bosses4</data>
+</edge>
+<edge source="n5" target="n4">
+  <data key="d4">1.7</data>
+  <data key="d5">mont russes</data>
+</edge>
+<edge source="n6" target="n7">
+  <data key="d4">1.3</data>
+  <data key="d5">pyramide5</data>
+</edge>
+<edge source="n7" target="n9">
+  <data key="d4">0.9</data>
+  <data key="d5">pyramide7</data>
+</edge>
+<edge source="n7" target="n4">
+  <data key="d4">1.1</data>
+  <data key="d5">pyramide6</data>
+</edge>
+<edge source="n8" target="n5">
+  <data key="d6">1</data>
+  <data key="d5">pyramide3</data>
+</edge>
+<edge source="n8" target="n6">
+  <data key="d4">0.9</data>
+  <data key="d5">pyramide4</data>
+</edge>
+<edge source="n9" target="n15">
+  <data key="d6">1</data>
+  <data key="d5">pyramide8</data>
+</edge>
+<edge source="n9" target="n4">
+  <data key="d4">1.6</data>
+  <data key="d5">grandes bosses3</data>
+</edge>
+<edge source="n10" target="n2">
+  <data key="d4">1.9</data>
+  <data key="d5">Jean Pachod2</data>
+</edge>
+<edge source="n11" target="n16">
+  <data key="d4">1.2</data>
+  <data key="d5">praline1</data>
+</edge>
+<edge source="n11" target="n21">
+  <data key="d4">2.2</data>
+  <data key="d5">rochers4</data>
+</edge>
+<edge source="n11" target="n19">
+  <data key="d6">3</data>
+  <data key="d5">bel air</data>
+</edge>
+<edge source="n11" target="n26">
+  <data key="d4">0.8</data>
+  <data key="d5">ariondaz1</data>
+</edge>
+<edge source="n12" target="n3">
+  <data key="d6">4</data>
+  <data key="d5">gravelles</data>
+</edge>
+<edge source="n12" target="n18">
+  <data key="d4">1.2</data>
+  <data key="d5">praline5</data>
+</edge>
+<edge source="n13" target="n12">
+  <data key="d4">1.5</data>
+  <data key="d5">praline4</data>
+</edge>
+<edge source="n13" target="n18">
+  <data key="d4">1.9</data>
+  <data key="d5">praline6</data>
+</edge>
+<edge source="n14" target="n13">
+  <data key="d4">0.6</data>
+  <data key="d5">praline3</data>
+</edge>
+<edge source="n14" target="n18">
+  <data key="d4">1.6</data>
+  <data key="d5">grandes bosses5</data>
+</edge>
+<edge source="n15" target="n11">
+  <data key="d6">1</data>
+  <data key="d5">pyramide9</data>
+</edge>
+<edge source="n16" target="n14">
+  <data key="d4">1.1</data>
+  <data key="d5">praline2</data>
+</edge>
+<edge source="n16" target="n4">
+  <data key="d6">2</data>
+  <data key="d5">COMBE
+</data>
+</edge>
+<edge source="n17" target="n9">
+  <data key="d6">3</data>
+  <data key="d5">grandes bosses1</data>
+</edge>
+<edge source="n17" target="n15">
+  <data key="d4">3.2</data>
+  <data key="d5">grandes bosses2</data>
+</edge>
+<edge source="n17" target="n19">
+  <data key="d4">2.9</data>
+  <data key="d5">chapelet</data>
+</edge>
+<edge source="n17" target="n20">
+  <data key="d6">3</data>
+  <data key="d5">rochers1</data>
+</edge>
+<edge source="n18" target="n12">
+  <data key="d6">4</data>
+  <data key="d5">PTE BOSSE</data>
+</edge>
+<edge source="n18" target="n17">
+  <data key="d6">5</data>
+  <data key="d5">SIGNAL</data>
+</edge>
+<edge source="n18" target="n23">
+  <data key="d4">0.9</data>
+  <data key="d5">praline7</data>
+</edge>
+<edge source="n18" target="n32">
+  <data key="d6">1</data>
+  <data key="d5">indiens1</data>
+</edge>
+<edge source="n19" target="n17">
+  <data key="d4">2.9</data>
+  <data key="d5">CHAPELET</data>
+</edge>
+<edge source="n19" target="n27">
+  <data key="d6">3</data>
+  <data key="d5">praline11</data>
+</edge>
+<edge source="n20" target="n21">
+  <data key="d4">0.9</data>
+  <data key="d5">rochers3</data>
+</edge>
+<edge source="n20" target="n11">
+  <data key="d6">2</data>
+  <data key="d5">rochers2</data>
+</edge>
+<edge source="n21" target="n19">
+  <data key="d6">3</data>
+  <data key="d5">rochers5</data>
+</edge>
+<edge source="n22" target="n11">
+  <data key="d4">1.5</data>
+  <data key="d5">ARIONDAZ</data>
+</edge>
+<edge source="n22" target="n18">
+  <data key="d4">1.3</data>
+  <data key="d5">MARQUIS</data>
+</edge>
+<edge source="n22" target="n32">
+  <data key="d4">1.5</data>
+  <data key="d5">STEAGATHE</data>
+</edge>
+<edge source="n22" target="n30">
+  <data key="d4">1.4</data>
+  <data key="d5">BELVEDERE</data>
+</edge>
+<edge source="n22" target="n28">
+  <data key="d4">2.2</data>
+  <data key="d5">belvedere5</data>
+</edge>
+<edge source="n23" target="n24">
+  <data key="d4">0.7</data>
+  <data key="d5">praline8</data>
+</edge>
+<edge source="n23" target="n18">
+  <data key="d4">0.9</data>
+  <data key="d5">ariondaz3</data>
+</edge>
+<edge source="n23" target="n29">
+  <data key="d4">1.7</data>
+  <data key="d5">marquis1</data>
+</edge>
+<edge source="n24" target="n25">
+  <data key="d6">1</data>
+  <data key="d5">praline9</data>
+</edge>
+<edge source="n24" target="n27">
+  <data key="d4">1.5</data>
+  <data key="d5">granges2</data>
+</edge>
+<edge source="n25" target="n19">
+  <data key="d4">3.5</data>
+  <data key="d5">praline10</data>
+</edge>
+<edge source="n25" target="n27">
+  <data key="d4">2.1</data>
+  <data key="d5">carabosse</data>
+</edge>
+<edge source="n26" target="n23">
+  <data key="d4">0.6</data>
+  <data key="d5">ariondaz2</data>
+</edge>
+<edge source="n26" target="n24">
+  <data key="d4">0.5</data>
+  <data key="d5">granges1</data>
+</edge>
+<edge source="n27" target="n26">
+  <data key="d6">4</data>
+  <data key="d5">GRANGES</data>
+</edge>
+<edge source="n27" target="n29">
+  <data key="d6">4</data>
+  <data key="d5">STADE</data>
+</edge>
+<edge source="n27" target="n31">
+  <data key="d4">2.1</data>
+  <data key="d5">belvedere3</data>
+</edge>
+<edge source="n28" target="n18">
+  <data key="d4">1.3</data>
+  <data key="d5">3VALLEES</data>
+</edge>
+<edge source="n29" target="n27">
+  <data key="d4">1.2</data>
+  <data key="d5">stade</data>
+</edge>
+<edge source="n29" target="n22">
+  <data key="d4">2.5</data>
+  <data key="d5">marquis</data>
+</edge>
+<edge source="n29" target="n32">
+  <data key="d4">1.2</data>
+  <data key="d5">piste bleue1</data>
+</edge>
+<edge source="n30" target="n27">
+  <data key="d6">1</data>
+  <data key="d5">belvedere1</data>
+</edge>
+<edge source="n30" target="n31">
+  <data key="d4">0.5</data>
+  <data key="d5">belvedere2</data>
+</edge>
+<edge source="n31" target="n22">
+  <data key="d6">4</data>
+  <data key="d5">belvedere4</data>
+</edge>
+<edge source="n32" target="n28">
+  <data key="d6">1</data>
+  <data key="d5">piste bleue2</data>
+</edge>
+<edge source="n32" target="n22">
+  <data key="d4">0.8</data>
+  <data key="d5">indiens2</data>
+</edge>
+<edge source="n33" target="n34">
+  <data key="d4">1.1</data>
+  <data key="d5">roches grises1</data>
+</edge>
+<edge source="n34" target="n35">
+  <data key="d4">0.9</data>
+  <data key="d5">noire</data>
+</edge>
+<edge source="n35" target="n38">
+  <data key="d4">1.3</data>
+  <data key="d5">creux2
+</data>
+</edge>
+<edge source="n36" target="n35">
+  <data key="d4">3.4</data>
+  <data key="d5">creux4</data>
+</edge>
+<edge source="n36" target="n37">
+  <data key="d4">1.8</data>
+  <data key="d5">marmottes8</data>
+</edge>
+<edge source="n36" target="n58">
+  <data key="d6">1</data>
+  <data key="d5">combe saulire1</data>
+</edge>
+<edge source="n36" target="n67">
+  <data key="d4">2.1</data>
+  <data key="d5">grand couloir</data>
+</edge>
+<edge source="n37" target="n41">
+  <data key="d4">1.9</data>
+  <data key="d5">marmottes1</data>
+</edge>
+<edge source="n37" target="n59">
+  <data key="d4">1.5</data>
+  <data key="d5">combe saulire5</data>
+</edge>
+<edge source="n37" target="n58">
+  <data key="d4">1.2</data>
+  <data key="d5">combe saulire2</data>
+</edge>
+<edge source="n38" target="n2">
+  <data key="d6">2</data>
+  <data key="d5">creux3</data>
+</edge>
+<edge source="n38" target="n39">
+  <data key="d4">1.5</data>
+  <data key="d5">lac creux1</data>
+</edge>
+<edge source="n39" target="n33">
+  <data key="d4">2.5</data>
+  <data key="d5">CREUX NOIRES</data>
+</edge>
+<edge source="n39" target="n42">
+  <data key="d4">1.8</data>
+  <data key="d5">lac creux2</data>
+</edge>
+<edge source="n40" target="n39">
+  <data key="d4">1.7</data>
+  <data key="d5">marmottes3</data>
+</edge>
+<edge source="n40" target="n42">
+  <data key="d4">0.8</data>
+  <data key="d5">marmottes4</data>
+</edge>
+<edge source="n40" target="n47">
+  <data key="d4">0.7</data>
+  <data key="d5">park city1</data>
+</edge>
+<edge source="n41" target="n40">
+  <data key="d4">2.4</data>
+  <data key="d5">marmottes2</data>
+</edge>
+<edge source="n41" target="n43">
+  <data key="d4">1.8</data>
+  <data key="d5">turcs1</data>
+</edge>
+<edge source="n41" target="n44">
+  <data key="d4">1.9</data>
+  <data key="d5">suisses1</data>
+</edge>
+<edge source="n42" target="n46">
+  <data key="d4">1.5</data>
+  <data key="d5">marmottes5</data>
+</edge>
+<edge source="n42" target="n45">
+  <data key="d4">1.4</data>
+  <data key="d5">lac creux3</data>
+</edge>
+<edge source="n43" target="n40">
+  <data key="d6">2</data>
+  <data key="d5">marmottes7</data>
+</edge>
+<edge source="n43" target="n44">
+  <data key="d4">0.9</data>
+  <data key="d5">turcs2</data>
+</edge>
+<edge source="n44" target="n49">
+  <data key="d6">1</data>
+  <data key="d5">suisses2</data>
+</edge>
+<edge source="n45" target="n48">
+  <data key="d4">1.1</data>
+  <data key="d5">lac creux4</data>
+</edge>
+<edge source="n46" target="n2">
+  <data key="d4">2.7</data>
+  <data key="d5">marmottes6</data>
+</edge>
+<edge source="n47" target="n45">
+  <data key="d6">1</data>
+  <data key="d5">rama</data>
+</edge>
+<edge source="n47" target="n48">
+  <data key="d4">1.2</data>
+  <data key="d5">park city2</data>
+</edge>
+<edge source="n48" target="n50">
+  <data key="d4">1.3</data>
+  <data key="d5">lac creux5</data>
+</edge>
+<edge source="n49" target="n37">
+  <data key="d4">3.5</data>
+  <data key="d5">SUISSES</data>
+</edge>
+<edge source="n49" target="n52">
+  <data key="d4">0.8</data>
+  <data key="d5">altiport2</data>
+</edge>
+<edge source="n50" target="n51">
+  <data key="d4">3.5</data>
+  <data key="d5">cave des creux</data>
+</edge>
+<edge source="n50" target="n49">
+  <data key="d6">1</data>
+  <data key="d5">altiport1</data>
+</edge>
+<edge source="n51" target="n3">
+  <data key="d6">3</data>
+  <data key="d5">prameruel1</data>
+</edge>
+<edge source="n52" target="n51">
+  <data key="d4">1.8</data>
+  <data key="d5">mur</data>
+</edge>
+<edge source="n52" target="n53">
+  <data key="d4">0.9</data>
+  <data key="d5">altiport3</data>
+</edge>
+<edge source="n53" target="n51">
+  <data key="d6">2</data>
+  <data key="d5">prameruel2</data>
+</edge>
+<edge source="n53" target="n55">
+  <data key="d4">1.7</data>
+  <data key="d5">pralong3</data>
+</edge>
+<edge source="n53" target="n84">
+  <data key="d6">3</data>
+  <data key="d5">altiport4</data>
+</edge>
+<edge source="n54" target="n56">
+  <data key="d4">1.3</data>
+  <data key="d5">pralong1</data>
+</edge>
+<edge source="n54" target="n49">
+  <data key="d6">1</data>
+  <data key="d5">super pralong</data>
+</edge>
+<edge source="n54" target="n65">
+  <data key="d4">0.9</data>
+  <data key="d5">bilollay verdons1</data>
+</edge>
+<edge source="n54" target="n82">
+  <data key="d4">1.6</data>
+  <data key="d5">bilollay1</data>
+</edge>
+<edge source="n55" target="n54">
+  <data key="d6">2</data>
+  <data key="d5">PRALONG</data>
+</edge>
+<edge source="n56" target="n53">
+  <data key="d4">1.2</data>
+  <data key="d5">pralong2</data>
+</edge>
+<edge source="n56" target="n49">
+  <data key="d4">0.9</data>
+  <data key="d5">pralong4</data>
+</edge>
+<edge source="n57" target="n37">
+  <data key="d4">3.2</data>
+  <data key="d5">VIZELLE</data>
+</edge>
+<edge source="n57" target="n36">
+  <data key="d4">2.4</data>
+  <data key="d5">SAULIRE</data>
+</edge>
+<edge source="n57" target="n72">
+  <data key="d6">1</data>
+  <data key="d5">verdons2</data>
+</edge>
+<edge source="n57" target="n80">
+  <data key="d4">1.3</data>
+  <data key="d5">bilollay4</data>
+</edge>
+<edge source="n58" target="n62">
+  <data key="d4">1.3</data>
+  <data key="d5">combe saulire3</data>
+</edge>
+<edge source="n59" target="n58">
+  <data key="d4">1.4</data>
+  <data key="d5">combe saulire4</data>
+</edge>
+<edge source="n59" target="n60">
+  <data key="d4">0.6</data>
+  <data key="d5">combe saulire6</data>
+</edge>
+<edge source="n60" target="n61">
+  <data key="d4">0.7</data>
+  <data key="d5">combe saulire7</data>
+</edge>
+<edge source="n60" target="n63">
+  <data key="d4">0.9</data>
+  <data key="d5">combe pylones1</data>
+</edge>
+<edge source="n61" target="n63">
+  <data key="d4">0.8</data>
+  <data key="d5">combe saulire8</data>
+</edge>
+<edge source="n61" target="n66">
+  <data key="d6">1</data>
+  <data key="d5">m1</data>
+</edge>
+<edge source="n62" target="n67">
+  <data key="d4">1.1</data>
+  <data key="d5">combe saulire10</data>
+</edge>
+<edge source="n63" target="n62">
+  <data key="d4">1.2</data>
+  <data key="d5">combe saulire9</data>
+</edge>
+<edge source="n63" target="n68">
+  <data key="d4">0.8</data>
+  <data key="d5">combe pylones2</data>
+</edge>
+<edge source="n64" target="n57">
+  <data key="d4">1.7</data>
+  <data key="d5">bilollay verdons3</data>
+</edge>
+<edge source="n65" target="n64">
+  <data key="d4">0.5</data>
+  <data key="d5">bilollay verdons2</data>
+</edge>
+<edge source="n66" target="n65">
+  <data key="d4">0.9</data>
+  <data key="d5">m3</data>
+</edge>
+<edge source="n66" target="n64">
+  <data key="d4">0.9</data>
+  <data key="d5">m2</data>
+</edge>
+<edge source="n67" target="n70">
+  <data key="d4">0.4</data>
+  <data key="d5">combe saulire11</data>
+</edge>
+<edge source="n68" target="n69">
+  <data key="d4">0.6</data>
+  <data key="d5">combe saulire13</data>
+</edge>
+<edge source="n69" target="n71">
+  <data key="d4">1.2</data>
+  <data key="d5">combe saulire14</data>
+</edge>
+<edge source="n70" target="n68">
+  <data key="d4">0.7</data>
+  <data key="d5">combe saulire12</data>
+</edge>
+<edge source="n70" target="n73">
+  <data key="d4">0.3</data>
+  <data key="d5">combe saulire15</data>
+</edge>
+<edge source="n71" target="n57">
+  <data key="d6">1</data>
+  <data key="d5">verdons1</data>
+</edge>
+<edge source="n71" target="n72">
+  <data key="d4">1.2</data>
+  <data key="d5">verdons3</data>
+</edge>
+<edge source="n72" target="n74">
+  <data key="d6">2</data>
+  <data key="d5">verdons4</data>
+</edge>
+<edge source="n72" target="n81">
+  <data key="d6">1</data>
+  <data key="d5">renard1</data>
+</edge>
+<edge source="n73" target="n69">
+  <data key="d4">0.5</data>
+  <data key="d5">combe saulire16</data>
+</edge>
+<edge source="n73" target="n74">
+  <data key="d6">2</data>
+  <data key="d5">stade descente</data>
+</edge>
+<edge source="n74" target="n75">
+  <data key="d6">1</data>
+  <data key="d5">verdons5</data>
+</edge>
+<edge source="n74" target="n71">
+  <data key="d4">0.88</data>
+  <data key="d5">SOURCES</data>
+</edge>
+<edge source="n74" target="n73">
+  <data key="d4">1.1</data>
+  <data key="d5">ROCHER DE L'OMBRE</data>
+</edge>
+<edge source="n75" target="n76">
+  <data key="d6">1</data>
+  <data key="d5">verdons6</data>
+</edge>
+<edge source="n76" target="n77">
+  <data key="d4">1.2</data>
+  <data key="d5">verdons7</data>
+</edge>
+<edge source="n77" target="n54">
+  <data key="d6">3</data>
+  <data key="d5">BIOLAY</data>
+</edge>
+<edge source="n77" target="n78">
+  <data key="d6">1</data>
+  <data key="d5">verdons8</data>
+</edge>
+<edge source="n77" target="n88">
+  <data key="d6">4</data>
+  <data key="d5">COQS</data>
+</edge>
+<edge source="n78" target="n79">
+  <data key="d4">2.2</data>
+  <data key="d5">verdons9</data>
+</edge>
+<edge source="n79" target="n86">
+  <data key="d4">3.2</data>
+  <data key="d5">BELECOTE</data>
+</edge>
+<edge source="n79" target="n84">
+  <data key="d4">1.9</data>
+  <data key="d5">JARDIN ALPIN</data>
+</edge>
+<edge source="n79" target="n55">
+  <data key="d6">2</data>
+  <data key="d5">COSPILOT</data>
+</edge>
+<edge source="n79" target="n88">
+  <data key="d4">2.9</data>
+  <data key="d5">CHENUS	</data>
+</edge>
+<edge source="n79" target="n57">
+  <data key="d4">3.9</data>
+  <data key="d5">VERDONS</data>
+</edge>
+<edge source="n79" target="n89">
+  <data key="d6">3</data>
+  <data key="d5">LOZE</data>
+</edge>
+<edge source="n79" target="n110">
+  <data key="d4">2.3</data>
+  <data key="d5">tovets1</data>
+</edge>
+<edge source="n79" target="n111">
+  <data key="d6">3</data>
+  <data key="d5">stade1</data>
+</edge>
+<edge source="n79" target="n113">
+  <data key="d4">0.7</data>
+  <data key="d5">jardin d'enfants</data>
+</edge>
+<edge source="n80" target="n84">
+  <data key="d4">1.8</data>
+  <data key="d5">bilollay5</data>
+</edge>
+<edge source="n80" target="n81">
+  <data key="d4">0.6</data>
+  <data key="d5">marquettty2</data>
+</edge>
+<edge source="n81" target="n74">
+  <data key="d6">2</data>
+  <data key="d5">renard2</data>
+</edge>
+<edge source="n81" target="n85">
+  <data key="d4">2.5</data>
+  <data key="d5">renard3</data>
+</edge>
+<edge source="n82" target="n80">
+  <data key="d4">2.2</data>
+  <data key="d5">marquetty1</data>
+</edge>
+<edge source="n83" target="n84">
+  <data key="d4">0.8</data>
+  <data key="d5">bilollay3</data>
+</edge>
+<edge source="n84" target="n85">
+  <data key="d4">0.9</data>
+  <data key="d5">bilollay6</data>
+</edge>
+<edge source="n84" target="n55">
+  <data key="d4">1.1</data>
+  <data key="d5">bilollay7</data>
+</edge>
+<edge source="n84" target="n86">
+  <data key="d4">1.5</data>
+  <data key="d5">renard5</data>
+</edge>
+<edge source="n85" target="n77">
+  <data key="d6">2</data>
+  <data key="d5">bilollay7</data>
+</edge>
+<edge source="n85" target="n86">
+  <data key="d6">1</data>
+  <data key="d5">renard4</data>
+</edge>
+<edge source="n86" target="n79">
+  <data key="d4">2.4</data>
+  <data key="d5">renard7</data>
+</edge>
+<edge source="n86" target="n55">
+  <data key="d4">2.2</data>
+  <data key="d5">renard6</data>
+</edge>
+<edge source="n86" target="n87">
+  <data key="d6">3</data>
+  <data key="d5">renard8</data>
+</edge>
+<edge source="n87" target="n77">
+  <data key="d4">0.7</data>
+  <data key="d5">renard9</data>
+</edge>
+<edge source="n87" target="n78">
+  <data key="d4">1.7</data>
+  <data key="d5">renard10</data>
+</edge>
+<edge source="n88" target="n90">
+  <data key="d4">0.6</data>
+  <data key="d5">anemones1</data>
+</edge>
+<edge source="n88" target="n95">
+  <data key="d4">0.9</data>
+  <data key="d5">COL DE LA LOZE</data>
+</edge>
+<edge source="n88" target="n100">
+  <data key="d4">0.4</data>
+  <data key="d5">cretes1</data>
+</edge>
+<edge source="n88" target="n126">
+  <data key="d6">3</data>
+  <data key="d5">lanches</data>
+</edge>
+<edge source="n89" target="n91">
+  <data key="d6">3</data>
+  <data key="d5">loze est1</data>
+</edge>
+<edge source="n89" target="n79">
+  <data key="d6">5</data>
+  <data key="d5">loze</data>
+</edge>
+<edge source="n89" target="n124">
+  <data key="d4">0.9</data>
+  <data key="d5">jean luc1</data>
+</edge>
+<edge source="n89" target="n108">
+  <data key="d6">2</data>
+  <data key="d5">cretes</data>
+</edge>
+<edge source="n89" target="n123">
+  <data key="d4">1.9</data>
+  <data key="d5">dou du midi1</data>
+</edge>
+<edge source="n89" target="n126">
+  <data key="d6">3</data>
+  <data key="d5">bouc blanc1</data>
+</edge>
+<edge source="n90" target="n92">
+  <data key="d4">1.3</data>
+  <data key="d5">lac bleu1</data>
+</edge>
+<edge source="n90" target="n91">
+  <data key="d6">1</data>
+  <data key="d5">anemones2</data>
+</edge>
+<edge source="n91" target="n92">
+  <data key="d6">2</data>
+  <data key="d5">loze est2</data>
+</edge>
+<edge source="n91" target="n93">
+  <data key="d4">2.3</data>
+  <data key="d5">chenus1</data>
+</edge>
+<edge source="n91" target="n98">
+  <data key="d6">2</data>
+  <data key="d5">anemones3	</data>
+</edge>
+<edge source="n92" target="n94">
+  <data key="d4">1.5</data>
+  <data key="d5">loze est3</data>
+</edge>
+<edge source="n93" target="n75">
+  <data key="d4">1.2</data>
+  <data key="d5">loze est5</data>
+</edge>
+<edge source="n93" target="n76">
+  <data key="d6">1</data>
+  <data key="d5">chenus2</data>
+</edge>
+<edge source="n93" target="n99">
+  <data key="d4">2.1</data>
+  <data key="d5">anemones5</data>
+</edge>
+<edge source="n94" target="n93">
+  <data key="d4">3.4</data>
+  <data key="d5">loze est4</data>
+</edge>
+<edge source="n95" target="n96">
+  <data key="d4">1.1</data>
+  <data key="d5">col de la loze1</data>
+</edge>
+<edge source="n96" target="n97">
+  <data key="d4">1.3</data>
+  <data key="d5">dou des lanches1</data>
+</edge>
+<edge source="n96" target="n88">
+  <data key="d4">1.2</data>
+  <data key="d5">col de la loze2</data>
+</edge>
+<edge source="n97" target="n101">
+  <data key="d4">1.2</data>
+  <data key="d5">dou des lanches2</data>
+</edge>
+<edge source="n97" target="n102">
+  <data key="d4">1.7</data>
+  <data key="d5">dou des lanches4</data>
+</edge>
+<edge source="n98" target="n93">
+  <data key="d4">1.3</data>
+  <data key="d5">anemones4</data>
+</edge>
+<edge source="n98" target="n99">
+  <data key="d4">0.9</data>
+  <data key="d5">jantzen</data>
+</edge>
+<edge source="n99" target="n79">
+  <data key="d4">1.1</data>
+  <data key="d5">anemones6</data>
+</edge>
+<edge source="n100" target="n89">
+  <data key="d6">1</data>
+  <data key="d5">cretes2</data>
+</edge>
+<edge source="n101" target="n102">
+  <data key="d6">1</data>
+  <data key="d5">dou des lanches3</data>
+</edge>
+<edge source="n102" target="n103">
+  <data key="d6">3</data>
+  <data key="d5">dou des lanches5</data>
+</edge>
+<edge source="n103" target="n95">
+  <data key="d6">1</data>
+  <data key="d5">DOU DES LANCHES</data>
+</edge>
+<edge source="n103" target="n88">
+  <data key="d4">1.5</data>
+  <data key="d5">PRAZ JUGET</data>
+</edge>
+<edge source="n103" target="n127">
+  <data key="d6">3</data>
+  <data key="d5">jockeys1</data>
+</edge>
+<edge source="n103" target="n132">
+  <data key="d4">1.4</data>
+  <data key="d5">plan fontaine1</data>
+</edge>
+<edge source="n103" target="n129">
+  <data key="d6">2</data>
+  <data key="d5">folyeres1</data>
+</edge>
+<edge source="n104" target="n103">
+  <data key="d6">5</data>
+  <data key="d5">LA TANIA</data>
+</edge>
+<edge source="n104" target="n89">
+  <data key="d6">6</data>
+  <data key="d5">BOUC BLANC</data>
+</edge>
+<edge source="n104" target="n129">
+  <data key="d6">2</data>
+  <data key="d5">GROS MURGER</data>
+</edge>
+<edge source="n105" target="n108">
+  <data key="d4">5.2</data>
+  <data key="d5">FORET</data>
+</edge>
+<edge source="n105" target="n79">
+  <data key="d6">2</data>
+  <data key="d5">PRAZ</data>
+</edge>
+<edge source="n107" target="n79">
+  <data key="d4">2.1</data>
+  <data key="d5">GRANGETTES</data>
+</edge>
+<edge source="n108" target="n100">
+  <data key="d4">1.5</data>
+  <data key="d5">CRETES</data>
+</edge>
+<edge source="n108" target="n124">
+  <data key="d4">1.1</data>
+  <data key="d5">dou du midi8</data>
+</edge>
+<edge source="n108" target="n126">
+  <data key="d4">1.6</data>
+  <data key="d5">arolles1</data>
+</edge>
+<edge source="n109" target="n79">
+  <data key="d4">2.2</data>
+  <data key="d5">TOVETS</data>
+</edge>
+<edge source="n110" target="n107">
+  <data key="d4">1.9</data>
+  <data key="d5">proveres2</data>
+</edge>
+<edge source="n110" target="n111">
+  <data key="d6">2</data>
+  <data key="d5">tovets2</data>
+</edge>
+<edge source="n111" target="n109">
+  <data key="d6">1</data>
+  <data key="d5">stade2</data>
+</edge>
+<edge source="n112" target="n109">
+  <data key="d4">0.8</data>
+  <data key="d5">dou du midi6</data>
+</edge>
+<edge source="n113" target="n112">
+  <data key="d4">0.6</data>
+  <data key="d5">dou du midi5</data>
+</edge>
+<edge source="n113" target="n114">
+  <data key="d4">0.7</data>
+  <data key="d5">briques1</data>
+</edge>
+<edge source="n113" target="n79">
+  <data key="d6">2</data>
+  <data key="d5">JARDIN D'ENFANTS</data>
+</edge>
+<edge source="n113" target="n119">
+  <data key="d4">1.1</data>
+  <data key="d5">EPICEA</data>
+</edge>
+<edge source="n114" target="n112">
+  <data key="d4">0.9</data>
+  <data key="d5">deviation 1550_2</data>
+</edge>
+<edge source="n114" target="n116">
+  <data key="d4">1.2</data>
+  <data key="d5">briques2</data>
+</edge>
+<edge source="n115" target="n116">
+  <data key="d4">0.5</data>
+  <data key="d5">jean blanc3</data>
+</edge>
+<edge source="n115" target="n114">
+  <data key="d4">0.9</data>
+  <data key="d5">deviation1550_1</data>
+</edge>
+<edge source="n116" target="n117">
+  <data key="d4">1.7</data>
+  <data key="d5">briques3</data>
+</edge>
+<edge source="n117" target="n105">
+  <data key="d4">2.1</data>
+  <data key="d5">amoureux</data>
+</edge>
+<edge source="n117" target="n106">
+  <data key="d6">3</data>
+  <data key="d5">saint bon2</data>
+</edge>
+<edge source="n118" target="n79">
+  <data key="d6">4</data>
+  <data key="d5">epicea5</data>
+</edge>
+<edge source="n118" target="n113">
+  <data key="d6">4</data>
+  <data key="d5"> plantrey</data>
+</edge>
+<edge source="n118" target="n125">
+  <data key="d6">2</data>
+  <data key="d5">STADE</data>
+</edge>
+<edge source="n119" target="n120">
+  <data key="d4">1.4</data>
+  <data key="d5">epicea2</data>
+</edge>
+<edge source="n119" target="n113">
+  <data key="d4">1.5</data>
+  <data key="d5">epicea1</data>
+</edge>
+<edge source="n120" target="n121">
+  <data key="d6">1</data>
+  <data key="d5">epicea3</data>
+</edge>
+<edge source="n120" target="n113">
+  <data key="d4">1.7</data>
+  <data key="d5">dou du midi4</data>
+</edge>
+<edge source="n121" target="n118">
+  <data key="d4">1.2</data>
+  <data key="d5">epicea4</data>
+</edge>
+<edge source="n122" target="n120">
+  <data key="d4">1.3</data>
+  <data key="d5">dou du midi3</data>
+</edge>
+<edge source="n123" target="n122">
+  <data key="d4">1.1</data>
+  <data key="d5">dou du midi2</data>
+</edge>
+<edge source="n123" target="n125">
+  <data key="d4">0.8</data>
+  <data key="d5">petit dou1</data>
+</edge>
+<edge source="n124" target="n122">
+  <data key="d4">1.1</data>
+  <data key="d5">dou du midi7</data>
+</edge>
+<edge source="n125" target="n121">
+  <data key="d4">1.4</data>
+  <data key="d5">petit dou2</data>
+</edge>
+<edge source="n126" target="n103">
+  <data key="d6">1</data>
+  <data key="d5">bouc blanc2</data>
+</edge>
+<edge source="n127" target="n128">
+  <data key="d4">1.5</data>
+  <data key="d5">jockeys2</data>
+</edge>
+<edge source="n128" target="n105">
+  <data key="d4">2.3</data>
+  <data key="d5">murettes2</data>
+</edge>
+<edge source="n129" target="n131">
+  <data key="d4">2.1</data>
+  <data key="d5">folyeres2</data>
+</edge>
+<edge source="n129" target="n130">
+  <data key="d4">1.24</data>
+  <data key="d5">plan fontaine3</data>
+</edge>
+<edge source="n130" target="n104">
+  <data key="d4">1.2</data>
+  <data key="d5">moretta blanc3</data>
+</edge>
+<edge source="n130" target="n131">
+  <data key="d6">1</data>
+  <data key="d5">plan fontaine4</data>
+</edge>
+<edge source="n131" target="n104">
+  <data key="d6">1</data>
+  <data key="d5">plan fontaine5</data>
+</edge>
+<edge source="n132" target="n129">
+  <data key="d6">2</data>
+  <data key="d5">plan fontaine2</data>
+</edge>
+</graph></graphml>
